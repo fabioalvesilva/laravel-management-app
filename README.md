@@ -1,2 +1,2 @@
-# php-laravel-beginner
-PHP introduction exercices and LARAVEL project.
+# laravel-beginner
+LARAVEL bwginner project.
