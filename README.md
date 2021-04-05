@@ -1,2 +1,2 @@
 # laravel-beginner
-LARAVEL bwginner project.
+LARAVEL beginner project.
